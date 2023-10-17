@@ -1,0 +1,38 @@
+body {
+    font-size: 22px;
+}
+
+input[type="text"] {
+    margin: 10px 0;
+    display: block;
+}
+
+[v-cloak] {
+    display: none;
+}
+
+.circle {
+    margin: 20px 0;
+    background-color: #44c544;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 48px;
+    color: white;
+    font-family: "有爱魔兽圆体 CN Medium", "sans-serif";
+}
+
+.purple {
+    background-color: #767dea;
+}
+
+.text-black {
+    color: #424242
+}
+
+.text-orange {
+    color: #ffc26f
+}
