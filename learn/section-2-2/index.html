@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>class,style,computed</title>
     <link rel="stylesheet" type="text/css" href="main.css"/>
 </head>
 <body>
@@ -14,7 +14,10 @@
         <option value="text-orange">Orange</option>
     </select>
 
-    <div class="circle" :class="[selectedColor,circle_classes]">
+    <input type="number" v-model="size"/>
+
+    <div class="circle" :class="[selectedColor,circle_classes]"
+         :style="circle_styles">
         <span>Hi!</span>
     </div>
 </div>
