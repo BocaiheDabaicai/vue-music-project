@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" type="text/css" href="main.css"/>
+</head>
+<body>
+<div id="app">
+    <h2>CSS3 Perspective Playground</h2>
+    <main>
+        <section class="settings">
+            <div class="settings-container">
+                <label>perspective: {{ perspective }}px;</label>
+                <input type="range" min="0" max="999" v-model="perspective"/>
+
+                <label>rotateX: {{ x }}deg;</label>
+                <input type="range" min="-180" max="180" v-model="x"/>
+
+                <label>rotateY: {{ y }}deg;</label>
+                <input type="range" min="-180" max="180" v-model="y"/>
+
+                <label>rotateZ: {{ z }}deg;</label>
+                <input type="range" min="-180" max="180" v-model="z"/>
+
+                <div class="buttons">
+                    <button @click="reset">reset</button>
+                    <button @click="apply">apply</button>
+                </div>
+            </div>
+        </section>
+        <section class="output">
+            <div class="box-container">
+                <div class="box" :style="box"></div>
+            </div>
+        </section>
+    </main>
+</div>
+<script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
