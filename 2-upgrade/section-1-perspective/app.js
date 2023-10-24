@@ -9,10 +9,16 @@ const vm = Vue.createApp({
     },
     methods:{
         reset(){
-            this.perspective = 0
+            this.perspective = 100
             this.x = 0
             this.y = 0
             this.z = 0
+        },
+        async copy() {
+            let text = `transform:${this.box.transform};`
+            await navigator.clipboard.writeText(text)
+
+            alert("CSS Copied to Clipboard!")
         }
     },
     computed:{
