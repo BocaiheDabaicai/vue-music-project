@@ -15,3 +15,7 @@
 传入对象数组进入`v-for`的循环之后，会读取到三个基本属性
 
 `v-for = "(value,key,index) in objectArray"`
+
+#### 虚拟DOM
+
+它是真实DOM轻量级的复制对象，可以快速地实现数据比较和更新。
