@@ -1,0 +1,15 @@
+
+003 Vue-Lifecycle
+https://vuejs.org/guide/essentials/lifecycle.html
+
+005 CodePen
+https://codepen.io/
+
+005 Proxy-Object
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy
+
+006 CDNJS
+https://cdnjs.com/libraries/vue
+
+006 Vue-Builds
+https://github.com/vuejs/core/tree/main/packages/vue#which-dist-file-to-use

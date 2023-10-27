@@ -1,0 +1,12 @@
+
+004 Dynamic-Route-Matchmaking
+https://router.vuejs.org/guide/essentials/dynamic-matching.html
+
+013 No-Plus-Plus
+https://eslint.org/docs/rules/no-plusplus
+
+014 Howler
+https://howlerjs.com/
+
+016 Howler-Documentation
+https://github.com/goldfire/howler.js#documentation

@@ -1,0 +1,24 @@
+
+001 Vue-Router
+https://router.vuejs.org/
+
+002 Env-Variables
+https://vitejs.dev/guide/env-and-mode.html
+
+004 History-API
+https://developer.mozilla.org/en-US/docs/Web/API/History_API
+
+004 History-Mode
+https://router.vuejs.org/guide/essentials/history-mode.html
+
+007 API-Reference
+https://router.vuejs.org/api/
+
+011 Navigation-Guard
+https://router.vuejs.org/guide/advanced/navigation-guards.html
+
+013 Navigation-Guard
+https://router.vuejs.org/guide/advanced/navigation-guards.html
+
+015 Route-Meta-Fields
+https://router.vuejs.org/guide/advanced/meta.html

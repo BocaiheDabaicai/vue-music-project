@@ -1,0 +1,18 @@
+
+001 Language-Codes
+https://www.science.co.il/language/Locale-codes.php
+
+001 Vue-I18N
+https://vue-i18n.intlify.dev/guide/
+
+003 Pluralization
+https://vue-i18n-next.intlify.dev/guide/essentials/pluralization.html
+
+004 Number-Localization
+https://vue-i18n-next.intlify.dev/guide/essentials/number.html
+
+004 Number-Format
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/NumberFormat
+
+005 Component-Interpolation
+https://vue-i18n-next.intlify.dev/guide/advanced/component.html

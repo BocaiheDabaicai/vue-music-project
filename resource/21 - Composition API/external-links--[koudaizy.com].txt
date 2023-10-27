@@ -1,0 +1,6 @@
+
+002 Mixins
+https://vuejs.org/api/options-composition.html#mixins
+
+004 Refs-vs-Reactive
+https://composition-api.vuejs.org/#ref-vs-reactive

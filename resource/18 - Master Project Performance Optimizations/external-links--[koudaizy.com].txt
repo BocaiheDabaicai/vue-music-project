@@ -1,0 +1,9 @@
+
+002 Lodash
+https://lodash.com/
+
+005 NProgress
+https://ricostacruz.com/nprogress/
+
+007 Rollup-Plugin-Visualizer
+https://github.com/btd/rollup-plugin-visualizer

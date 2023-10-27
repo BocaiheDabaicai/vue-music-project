@@ -1,0 +1,30 @@
+
+001 Firebase
+https://firebase.google.com/
+
+002 Firebase-Rules
+https://firebase.google.com/docs/rules
+
+003 Firebase-Web-Setup
+https://firebase.google.com/docs/web/setup
+
+004 Firebase-Auth
+https://firebase.google.com/docs/reference/js/v8/firebase.auth.Auth
+
+005 Authentication-SDK
+https://firebase.google.com/docs/reference/js/v8/firebase.auth.Auth
+
+009 Firebase-Request-Auth
+https://firebase.google.com/docs/reference/rules/rules.firestore.Request#auth
+
+013 signInWithEmailAndPassword-Function
+https://firebase.google.com/docs/reference/js/v8/firebase.auth.Auth#createuserwithemailandpassword
+
+016 signInWithEmailAndPassword-Function
+https://firebase.google.com/docs/reference/js/firebase.auth.Auth.html#signinwithemailandpassword
+
+018 JWT
+https://jwt.io/
+
+018 Base-64-Decode
+https://www.base64decode.org/

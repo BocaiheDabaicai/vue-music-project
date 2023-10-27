@@ -1,0 +1,21 @@
+
+001 Vuelidate
+https://vuelidate-next.netlify.app/
+
+001 Vee-Validate
+https://vee-validate.logaretm.com/v4/
+
+003 Field-Component
+https://vee-validate.logaretm.com/v4/api/field
+
+004 Vee-Validate-Rules
+https://vee-validate.logaretm.com/v4/guide/global-validators#vee-validaterules
+
+012 Scoped-Slots
+https://vuejs.org/guide/components/slots.html#scoped-slots
+
+015 Global-Message-Generator
+https://vee-validate.logaretm.com/v4/guide/i18n#global-message-generator
+
+017 How-we-spent-30k-USD-in-Firebase-in-less-than-72-hours
+https://hackernoon.com/how-we-spent-30k-usd-in-firebase-in-less-than-72-hours-307490bd24d

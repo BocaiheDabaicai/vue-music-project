@@ -1,0 +1,18 @@
+
+003 Style-Guide
+https://vuejs.org/style-guide/
+
+006 Tailwind
+https://tailwindcss.com/
+
+006 PurgeCSS
+https://purgecss.com/
+
+007 Tailwind-Installation
+https://tailwindcss.com/docs/guides/vite
+
+009 Statics-Assets-Handling
+https://cli.vuejs.org/guide/html-and-static-assets.html#static-assets-handling
+
+012 Component-Name-Style-Guide
+https://vuejs.org/style-guide/rules-essential.html#use-multi-word-component-names

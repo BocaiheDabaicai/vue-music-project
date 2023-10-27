@@ -1,0 +1,12 @@
+
+002 Transitions
+https://vuejs.org/guide/built-ins/transition.html
+
+005 Web-Animations-API
+https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API/Using_the_Web_Animations_API
+
+009 Animate.css
+https://animate.style/
+
+009 Animate-CDN
+https://cdnjs.com/libraries/animate.css

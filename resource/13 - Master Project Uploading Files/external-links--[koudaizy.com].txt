@@ -1,0 +1,30 @@
+
+003 HTML5
+https://en.wikipedia.org/wiki/HTML5_audio#Supported_audio_coding_formats
+
+006 Firebase-Secure-Rules
+https://firebase.google.com/docs/storage/security/core-syntax
+
+007 Upload-Files
+https://firebase.google.com/docs/storage/web/upload-files
+
+009 Font-Awesome
+https://fontawesome.com/
+
+009 Text-Colors
+https://tailwindcss.com/docs/text-color
+
+010 Error-Codes
+https://firebase.google.com/docs/storage/web/handle-errors
+
+011 File-Metadata
+https://firebase.google.com/docs/storage/web/file-metadata
+
+013 Drag-n-Drop-Support
+https://caniuse.com/dragndrop
+
+024 Delete-Files
+https://firebase.google.com/docs/storage/web/delete-files
+
+024 Storage-Security-Rules
+https://firebase.google.com/docs/firestore/security/rules-structure#granular_operations

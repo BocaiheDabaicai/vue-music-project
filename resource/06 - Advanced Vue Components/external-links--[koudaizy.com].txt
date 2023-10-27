@@ -1,0 +1,18 @@
+
+001 Create-Vue
+https://github.com/vuejs/create-vue
+
+003 Vue-Babel-Preset
+https://www.npmjs.com/package/@vue/babel-preset-app
+
+006 Scoped-CSS
+https://vue-loader.vuejs.org/guide/scoped-css.html#scoped-css
+
+007 Vue-CLI-CSS
+https://cli.vuejs.org/guide/css.html
+
+012 Type-Checks
+https://vuejs.org/guide/components/props.html#prop-validation
+
+015 Slots
+https://vuejs.org/guide/components/slots.html

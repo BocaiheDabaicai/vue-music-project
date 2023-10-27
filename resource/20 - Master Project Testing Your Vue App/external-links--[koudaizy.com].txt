@@ -1,0 +1,18 @@
+
+002 Jest
+https://jestjs.io/
+
+002 Mocha
+https://mochajs.org/
+
+002 Jasmine
+https://jasmine.github.io/
+
+004 expect-Function
+https://vitest.dev/api/#expect
+
+006 Wrapper-Methods
+https://test-utils.vuejs.org/api/#wrapper-methods
+
+017 Cypress
+https://www.cypress.io/

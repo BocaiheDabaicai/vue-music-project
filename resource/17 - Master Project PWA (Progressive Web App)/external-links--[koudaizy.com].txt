@@ -1,0 +1,18 @@
+
+002 Install-Criteria
+https://web.dev/install-criteria/
+
+004 PWA-Plugin-Manifest-File
+https://vite-plugin-pwa.netlify.app/guide/pwa-minimal-requirements.html#web-app-manifest
+
+004 Manifest-File
+https://developer.mozilla.org/en-US/docs/Web/Manifest
+
+005 Workbox
+https://developer.chrome.com/docs/workbox/
+
+007 Workbox
+https://developers.google.com/web/tools/workbox
+
+008 Enable-Persistence
+https://firebase.google.com/docs/reference/js/firebase.firestore.Firestore#enablepersistence
