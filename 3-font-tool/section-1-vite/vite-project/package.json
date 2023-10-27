@@ -10,5 +10,9 @@
   },
   "devDependencies": {
     "vite": "^4.4.5"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.16",
+    "sass": "^1.69.5"
   }
 }
