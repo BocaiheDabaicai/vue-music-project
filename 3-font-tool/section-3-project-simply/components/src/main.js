@@ -1,6 +1,10 @@
-import './assets/main.css'
-
 import { createApp } from 'vue'
 import App from './App.vue'
+// 全局组件注册与使用
+// import Greeting from "@/components/Greeting.vue";
 
-createApp(App).mount('#app')
+
+let vm = createApp(App)
+vm
+    // .component('Greeting',Greeting)
+    .mount('#app')
