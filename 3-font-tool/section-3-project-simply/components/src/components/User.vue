@@ -1,12 +1,18 @@
 <script>
 export default {
-  name:"User",
-  props:["age"]
+  name: "User",
+  props: ["age"],
+  methods:{
+    onClickAge(){
+      this.$emit('age-change')
+    }
+  }
 }
 </script>
 
 <template>
-<p>The user is {{age}} years olds</p>
+  <button type="button" @click="onClickAge">Update Age</button>
+  <p>The user is {{ age }} years olds</p>
 </template>
 
 <style scoped>

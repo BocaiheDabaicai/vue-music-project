@@ -17,9 +17,8 @@ export default {
 
 <template>
   <h3>Hey!</h3>
-  <button type="button" @click="age++">Update Age</button>
   <Greeting :age="age"/>
-  <User :age="age"/>
+  <User :age="age" @age-change="age++"/>
 </template>
 
 <style scoped>
