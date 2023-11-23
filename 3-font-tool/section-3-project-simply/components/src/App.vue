@@ -10,6 +10,14 @@ export default {
     return {
       age: 20
     }
+  },
+  methods:{
+    updateAge(num){
+      this.age += num
+    },
+    updateAgeBC(num){
+      this.age += num
+    }
   }
 }
 
@@ -18,7 +26,7 @@ export default {
 <template>
   <h3>Hey!</h3>
   <Greeting :age="age"/>
-  <User :age="age" @age-change="age++"/>
+  <User :age="age" @age-change="updateAge" :ageChangeFn="updateAgeBC"/>
 </template>
 
 <style scoped>
