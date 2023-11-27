@@ -72,9 +72,27 @@ export default {
   <!--  >-->
   <!--    <h2 v-if="flag">Hey</h2>-->
   <!--  </transition>-->
+  <!--  <hr/>-->
+  <!--  <button type="button" @click="addItem">Add</button>-->
+  <!--  <ul>-->
+  <!--    <transition-group name="fade">-->
+  <!--      <li v-for="(number,index) in numbers" :key="number" @click="removeItem(index)">-->
+  <!--        {{ number }}-->
+  <!--      </li>-->
+  <!--    </transition-group>-->
+  <!--  </ul>-->
+  <hr/>
   <button type="button" @click="addItem">Add</button>
   <ul>
-    <transition-group name="fade">
+    <transition-group
+        name="fade"
+        enter-from-class=""
+        enter-active-class="animate__animated animate__flipInX"
+        enter-to-class=""
+        leave-from-class=""
+        leave-active-class="animate__animated animate__flipOutX"
+        leave-to-class=""
+    >
       <li v-for="(number,index) in numbers" :key="number" @click="removeItem(index)">
         {{ number }}
       </li>
@@ -83,6 +101,14 @@ export default {
 </template>
 
 <style scoped>
+.animate__flipOutX{
+  position: absolute;
+}
+
+.animate__animated{
+  animation-duration: 1.5s;
+}
+
 li {
   font-size: 22px;
   cursor: pointer;
@@ -105,6 +131,14 @@ h2 {
 .fade-leave-to {
   transition: 1s all linear;
   opacity: 0;
+}
+
+.fade-move {
+  transition: 1s all linear;
+}
+
+.fade-leave-active {
+  position: absolute;
 }
 
 .zoom-enter-active {
